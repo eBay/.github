@@ -1,6 +1,6 @@
-# eBay Open Source
-
 ![Enabled by people. Powered by technology. Open to everyone. eBay.](https://github.com/eBay/.github/blob/main/header-dark.png?raw=true)
+
+# eBay Open Source
 
 eBay is a global commerce leader which empowers people and creates economic
 opportunity. We publish open source code to share technical artifacts with the
