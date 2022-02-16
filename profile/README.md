@@ -4,7 +4,7 @@
 
 eBay is a global commerce leader which empowers people and creates economic
 opportunity. We publish open source code to share technical artifacts with the
-broader community and [write a tech blog](https://tech.ebayinc.com/) to share
+broader community and publish [a tech blog](https://tech.ebayinc.com/) to share
 our experiences.
 
 If you're hoping to build integrations with eBay using our open source toolkit,
