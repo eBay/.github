@@ -14,4 +14,4 @@ In order to provide an inclusive environment, we adhere to a [code of
 conduct](https://github.com/eBay/.github/blob/main/CODE_OF_CONDUCT.md).
 
 If you're interested in joining eBay and working with open source, check out
-[our open source jobs](https://jobs.ebayinc.com/us/en/search-results?keywords=open%20source).
+[our open source jobs](https://jobs.ebayinc.com/us/en/search-results?keywords=%22open%20source%22).
